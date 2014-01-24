@@ -1,0 +1,2 @@
+<cfset xmlcontent = "</channel>
+</rss>">
