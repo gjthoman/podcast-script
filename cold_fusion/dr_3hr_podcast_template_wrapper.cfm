@@ -39,22 +39,5 @@
  	<itunes:category text=""Health"">
  		<itunes:category text=""Self-Help"" />
  	</itunes:category>
-	<item>
-		<title>The Dave Ramsey Show - #DateFormat(strDateToCreate,"mmddyyyy")#</title>
-		<description>The Dave Ramsey Show is about real life and how it revolves around money. Dave Ramsey teaches you to manage and budget your money, get out of debt, build wealth, and live in financial peace. Managing your money properly will reduce stress, improve your marriage, and provide security for you and your family. #PublishDate#</description>
-		<itunes:subtitle>The Dave Ramsey Show is about real life and how it revolves around money. Dave Ramsey teaches you to manage and budget your money, get out of debt, build wealth, and live in financial peace. Updated: #PublishDate#</itunes:subtitle>
-		<itunes:summary>The Dave Ramsey Show is about real life and how it revolves around money. Dave Ramsey teaches you to manage and budget your money, get out of debt, build wealth, and live in financial peace. Managing your money properly will reduce stress, improve your marriage, and provide security for you and your family. Updated: #PublishDate#</itunes:summary>
-		<enclosure url=""#enclosureUrl#"" length=""16371511"" type=""audio/mpeg"" />
-		<itunes:author>Lampo Licensing, LLC.</itunes:author>
-		<link>http://www.daveramsey.com?ectid=itunes</link>
-		<guid isPermaLink=""false"">http://www.daveramsey.com/media/audio/podcast/podcast_itunes#DateFormat(strDateToCreate,"mmddyyyy")#</guid>
-		<category>Educational</category>
-		<category>Dave Ramsey</category>
-		<category>Money</category>
-		<category>Financial</category>
-		<category>Life</category>
-		<pubDate>#PublishDate#</pubDate>
-		<itunes:keywords>Dave, Ramsey, Financial, Peace, radio, debt, bankruptcy, budget, counseling, money, retirement, saving</itunes:keywords>
-	</item>
 </channel>
 </rss>">
